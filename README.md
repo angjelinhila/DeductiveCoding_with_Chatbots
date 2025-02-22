@@ -65,4 +65,4 @@ From this randomized population set we drew 30 random samples sets of 30 observa
 Contributions are welcome! Please see CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
 ## Contact 
-For questions or suggestions, please contact ahila@utexas.com.
+For questions or suggestions, please contact ahila@utexas.edu.
