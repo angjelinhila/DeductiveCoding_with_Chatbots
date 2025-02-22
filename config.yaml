@@ -1,0 +1,3 @@
+data_dir: "data/input_files"
+output_dir: "results/output_files"
+model_path: "models/classification_model.pkl"
