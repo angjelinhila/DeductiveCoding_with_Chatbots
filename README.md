@@ -23,10 +23,13 @@ We provide a pipeline for validating discriminant and covergent validity across 
    Update config.yaml as needed.  
 
 ## Usage
-1. To run the classification script: 
+1. To run the classification script:
+```bash
 python scripts/classification.py
-2. To run the evaluation script: 
+3. To run the evaluation script:
+```bash
 python scripts/evaluation.py 
+```
 
 ## Repository Structure
    ```bash
