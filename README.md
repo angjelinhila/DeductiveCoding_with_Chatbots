@@ -29,23 +29,22 @@ python scripts/classification.py
 python scripts/evaluation.py 
 
 ## Repository Structure
-```bash
-tree -L 2
-your-repo/
-├── data/
-│   ├── input_files/
-│   └── processed_files/
-├── models/
-│   └── classification_model.pkl
-├── scripts/
-│   ├── classification.py
-│   └── evaluation.py
-├── config.yaml
-├── requirements.txt
-└── README.md
-```bash
+   ```bash
+   tree -L 2
+   your-repo/
+   ├── data/
+   │   ├── input_files/
+   │   └── processed_files/
+   ├── models/
+   │   └── classification_model.pkl
+   ├── scripts/
+   │   ├── classification.py
+   │   └── evaluation.py
+   ├── config.yaml
+   ├── requirements.txt
+   └── README.md
 
-## Contributions 
+## Contributions
 Contributions are welcome! Please see CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
 ## Contact 
