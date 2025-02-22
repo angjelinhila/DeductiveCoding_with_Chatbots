@@ -26,7 +26,9 @@ We provide a pipeline for validating discriminant and covergent validity across 
 1. To run the classification script:
 ```bash
    python scripts/classification.py
+```
 2. To run the evaluation script:
+```bash
    python scripts/evaluation.py 
 ```
 
