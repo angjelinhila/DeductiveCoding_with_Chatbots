@@ -20,8 +20,7 @@ We provide a pipeline for validating discriminant and covergent validity across 
    ```bash
    pip install -r requirements.txt
 4. Configure
-   ```bash
-  Update config.yaml as needed.  
+   Update config.yaml as needed.  
 
 ## Usage
 1. To run the classification script: 
@@ -30,6 +29,8 @@ python scripts/classification.py
 python scripts/evaluation.py 
 
 ## Repository Structure
+```bash
+tree -L 2
 your-repo/
 ├── data/
 │   ├── input_files/
