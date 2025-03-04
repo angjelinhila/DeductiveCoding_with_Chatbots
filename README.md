@@ -3,7 +3,7 @@
 The overarching goal of this project is to provide replicable pipelines for looping LLM Chatbots into qualitative coding tasks. We're currently working on validating deductive coding intervensions that yield accurate results and meet interrate reliability benchmarks. 
 In deductive coding, the taxonomy is specified prior to the dataset. We have chose the Comparative Agendas Codebook as our baseline model since it has wide policy applicability and has been validated to apply interculturally. 
 
-In inductive coding, the codebook emerges from the dataset, a posteriori. The end-goal of this projec to contribute novel methods that loop automated coding with Chatbots in a way that augments the task of human coders. The chief advantage is to achieve scalability for large datasets. 
+In inductive coding, the codebook emerges from the dataset, a posteriori. The end-goal of this project to contribute novel methods that loop automated coding with Chatbots in a way that augments the task of human coders. The chief advantage is to achieve scalability for large datasets. 
 
 We provide a pipeline for validating discriminant and covergent validity across four intervention methods for Chatbot deductive classification tasks.
 
